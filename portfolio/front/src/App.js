@@ -2,8 +2,8 @@ import React from 'react';
 import Header from './component/Header.jsx';
 import Hero from './component/Hero';
 import Skills from './component/Skills';
-import Projects from './component/Projects.jsx'
-// import Projects from './component/Projects';
+import Projects from './component/Projects.jsx';
+
 import Footer from './component/Footer';
 import './App.css';
 
